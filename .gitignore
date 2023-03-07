@@ -1,1 +1,4 @@
-public/sources/
+/public/sources/*
+/vendor/*
+.env
+.env.backup
