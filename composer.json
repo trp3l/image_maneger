@@ -3,7 +3,8 @@
         "psr-4": {
             "App\\"       : "app",
             "Database\\"  : "database",
-            "Public\\"    : "public"
+            "Public\\"    : "public",
+            "Sandbox\\"   : "sandbox"
         }
     }
     
